@@ -1,2 +1,2 @@
 # Assembly
-Algoritmos implementados em Assembly ARM.
+Algoritmos implementados em Assembly ARM64.
